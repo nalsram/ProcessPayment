@@ -7,9 +7,7 @@ This repository contains exercise given from viral square as an assesment task.
 
 **Requirements**
 
-•
-
-node
+node.js
 
 **Follow steps below to run this server**
 
@@ -23,9 +21,6 @@ iv. npm start
 
 **Endpoints**
 
-•
-
-•
 
 [http://localhost:8081/api/v1/processPaymentApi](http://localhost:8081/api/v1/processPaymentApi)
 
